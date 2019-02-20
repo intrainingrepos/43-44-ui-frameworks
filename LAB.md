@@ -1,6 +1,11 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB - Javascript and Web Frameworks
 =========================================================================
 
+## Group Assignments
+* [Angular 1.3](https://angular.io/) - Jared, Siobhan, Hannah, Michael
+* [Angular (latest)](https://angularjs.org/) - Jon, Heather, Lena, Fletcher
+* [Adonis](https://adonisjs.com/)  Tanner, Brent, Caity, George
+* [VueJS](https://vuejs.org/) - Jacob, Beca, Ryan
 
 ## Before you begin
 * Visit and familiarize yourself with the [ToDo MVC Project](http://todomvc.com)
@@ -24,11 +29,9 @@ Implementation will vary depending on the framework that you've been assigned.
 * If your framework supports a "Back End", increment the count on the back-end and send that value (or markup) to the client
 * Otherwise, implement the full counter functionality on the client side.
 
-
 ### Stretch Goals:
 * Deploy your running appliation to either Heroku or Amazon
 * Repeat the process, recreating the socket.io chat applet
-
 
 ###  Documentation
 Complete the README.md file included in the lab folder
